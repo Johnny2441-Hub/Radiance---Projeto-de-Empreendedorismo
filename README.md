@@ -26,7 +26,3 @@ O projeto de empreendedorismo visa a criação de uma empresa incluindo site e d
 	http://radianceonline.atwebpages.com/
 	+ Hospedado no Awardspace 
 
-## Outras Observações 
-
-+ Radiance é uma empresa de ensino focada nos jovens de escola pública.
-+ O awardspace demora para carregar.
