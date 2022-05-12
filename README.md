@@ -18,7 +18,7 @@
 
 
 ## Descrição do Projeto 
-O projeto de empreendedorismo visa a criação de uma empresa incluindo site em HTML, CSS e Javascript, e documentação completa feita no word seguindo as normas da ABNT. 
+O projeto de empreendedorismo visa a criação de uma empresa incluindo site (HTML, CSS e Javascript) e documentação completa feita no Word seguindo as normas da ABNT. 
 
 ## Endereço da Aplicação
 
