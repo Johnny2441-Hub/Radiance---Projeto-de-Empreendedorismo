@@ -8,12 +8,12 @@
 ## Integrantes
 | RA   | NOME COMPLETO | CURSO | TURMA |
 |------|---------------|-------|-------|
-| 420104233  |  João Paulo Rocha Candido         | TADS  | 3 |
-| 320105922  | Beatriz dos Santos Haxkar         | TADS  | 3 |
-| 420104325  |  Luigi Pinto Spinella             | TADS  | 3 |
-| 420106055  |  Mateus dos Santos Beserra        | TADS  | 3 | 
-| 420108342  |  Raul Victor Jeronimo             | TADS  | 3 | 
-| 420109865  | João Gabriel Araújo Farias        | TADS  | 3 | 
+| 420104233  |  João Paulo Rocha Candido         | TADS  | 11 |
+| 320105922  | Beatriz dos Santos Haxkar         | TADS  | 11 |
+| 420104325  |  Luigi Pinto Spinella             | TADS  | 11 |
+| 420106055  |  Mateus dos Santos Beserra        | TADS  | 11 | 
+| 420108342  |  Raul Victor Jeronimo             | TADS  | 11 | 
+| 420109865  | João Gabriel Araújo Farias        | TADS  | 11 | 
 
 
 
